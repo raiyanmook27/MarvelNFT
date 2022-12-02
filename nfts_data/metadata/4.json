@@ -1,0 +1,24 @@
+{
+  "name": "Marvel #4",
+  "description": "Collection of marvel heroes",
+  "image": "https://gateway.pinata.cloud/ipfs/QmeFHAyaXFKkooBqwKChr2VB1GtFzrwiVg2tYqCgzADCxP/4.jpg",
+  "edition": 4,
+  "attributes": [
+    {
+      "trait_type": "Powers",
+      "value": ["Enhanced senses","Speed","Regeneration"]
+    },
+    {
+      "trait_type": "Powers Origin",
+      "value": "Mutant born"
+    },
+    {
+	"trait_type": "Weapons",
+	"value":"Adamantium Claws"
+    },
+    {
+      "trait_type": "Year Created",
+      "value": "1974"
+    }
+  ]
+}

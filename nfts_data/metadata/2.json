@@ -1,0 +1,24 @@
+{
+  "name": "Marvel #2",
+  "description": "Collection of marvel heroes",
+  "image": "https://gateway.pinata.cloud/ipfs/QmeFHAyaXFKkooBqwKChr2VB1GtFzrwiVg2tYqCgzADCxP/2.jpg",
+  "edition": 2,
+  "attributes": [
+    {
+      "trait_type": "Powers",
+      "value": ["Strength","Agility","Healing ability"]
+    },
+    {
+      "trait_type": "Powers Origin",
+      "value": "Super-Soldier Serum"
+    },
+    {
+	"trait_type": "Weapons",
+	"value":"Vibranium"
+    },
+    {
+      "trait_type": "Year Created",
+      "value": "1941"
+    }
+  ]
+}

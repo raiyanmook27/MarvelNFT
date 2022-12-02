@@ -1,0 +1,25 @@
+{
+  "name": "Marvel #1",
+  "description": "Collection of marvel heroes",
+  "image": "https://gateway.pinata.cloud/ipfs/QmeFHAyaXFKkooBqwKChr2VB1GtFzrwiVg2tYqCgzADCxP/1.jpg",
+  "edition": 1,
+  "attributes": [
+    {
+      "trait_type": "Powers",
+      "value": ["Enhanced senses","Speed","Martial artist"]
+    },
+    {
+      "trait_type": "Powers Origin",
+      "value": "Heart-Shaped herb"
+    },
+    {
+	"trait_type": "Weapons",
+	"value":"Vibranium Claws"
+    },
+    {
+      "trait_type": "Year Created",
+      "value": "1966"
+    }
+  ]
+}
+

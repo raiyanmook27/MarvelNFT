@@ -1,0 +1,24 @@
+{
+  "name": "Marvel #5",
+  "description": "Collection of marvel heroes",
+  "image": "https://gateway.pinata.cloud/ipfs/QmeFHAyaXFKkooBqwKChr2VB1GtFzrwiVg2tYqCgzADCxP/5.jpg",
+  "edition": 5,
+  "attributes": [
+    {
+      "trait_type": "Powers",
+      "value": ["Genius-Level intellect","Flight","Armored suit"]
+    },
+    {
+      "trait_type": "Powers Origin",
+      "value": "Suit"
+    },
+    {
+	"trait_type": "Weapons",
+	"value":"Repulsor rays"
+    },
+    {
+      "trait_type": "Year Created",
+      "value": "1963"
+    }
+  ]
+}
